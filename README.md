@@ -13,7 +13,7 @@ This repository contains three independent projects, separating the core logic f
 ## 🚀 Key Features
 * Infinite `while True` menu loops for continuous user interaction.
 * Exception handling to prevent crashes from invalid user inputs (e.g., entering text instead of numbers).
-* Strict Package Architecture (`main.py` handles UI, `_core` handles logic).
+* Strict Package Architecture (`main.py` handles UI, `logic` handles logic).
 
 ## 🛠️ Tech Stack
 * Python 3.x
