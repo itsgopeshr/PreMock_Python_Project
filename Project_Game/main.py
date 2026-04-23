@@ -4,7 +4,6 @@ def print_header():
     print("\n" + "*"*35)
     print(" STONE - PAPER - SCISSORS ")
     print("*"*35)
-
 def main():
     while True:
         print_header()
