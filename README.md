@@ -2,7 +2,7 @@
 
 A collection of three menu-driven Python applications built using a modular package architecture. Developed for the Pre-Mock Evaluation.
 
-## 📂 Project Structure 
+## 📂 Project Structure
 
 This repository contains three independent projects, separating the core logic from the main execution loop:
 
